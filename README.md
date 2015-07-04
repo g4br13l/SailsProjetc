@@ -9,4 +9,12 @@ On the command line:
 
 
 
-Then clone this repository and be happy!
+Then clone this repository
+
+To run the project, type this command on project folder (SailsProj):
+
+- sails lift
+
+
+
+Be happy!
