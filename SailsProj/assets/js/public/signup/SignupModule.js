@@ -2,4 +2,6 @@
  * Created by gabriel.lima on 29/06/2015.
  */
 
-var myAppModule = angular.module('SignupModule', []);
+//  angular.module('SignupModule', ['toastr', 'compareTo']);
+
+var myAppModule = angular.module('SignupModule', ['compareTo']);
